@@ -19,7 +19,6 @@
         <module>detour-extras</module>
         <module>detour-dynamic</module>
         <module>recast-demo</module>
-        <module>meshTest</module>
     </modules>
 
     <dependencyManagement>
